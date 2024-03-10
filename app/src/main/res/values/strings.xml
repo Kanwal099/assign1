@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="inLandscapeMode">We are in landscape mode</string>
+    <string name="inPotraitMode">We are in potrait mode</string>
+</resources>
